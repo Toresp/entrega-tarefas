@@ -3,7 +3,6 @@
 - 1.- [**Ejercicio 3**](#1)
    - 1.2.- [**Ejercicio 3 proxectos**](#1.1)
    - 1.3.- [**Ejercicio 3 naves**](#1.2)
-- 2.- [**Ejercicio 4**](#2)
 
 ## Creación de proxectos <a name="1.1"/>
 * 1.- Empezamos creando la base de datos con un -Create Database proxectos;
